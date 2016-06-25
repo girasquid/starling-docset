@@ -1,4 +1,5 @@
 all: docset
+	tar --exclude '.DS_Store' -czvf starling.tgz starling.docset/
 	open starling.docset/
 
 docset: ./doc.starling-framework.org
