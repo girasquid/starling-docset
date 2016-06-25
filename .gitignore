@@ -1,0 +1,5 @@
+.DS_Store
+# Generated documentation directories
+doc.starling-framework.org
+starling.docset
+output.log
