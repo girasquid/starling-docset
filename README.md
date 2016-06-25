@@ -4,7 +4,7 @@ A [Starling](http://starling-framework.org) docset generator for [Dash](http://k
 
 # Usage
 
-[Install into dash](dash-feed://https://github.com/girasquid/starling-docset/raw/master/starling.xml)
+Install into dash by pasting `dash-feed://https%3A%2F%2Fgithub.com%2Fgirasquid%2Fstarling-docset%2Fraw%2Fmaster%2Fstarling.xml` into Safari's URL bar.
 
 Or compile it yourself:
 ```bash
